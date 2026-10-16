@@ -52,6 +52,7 @@
 #define EMBEDDED 5
 
 /* change this line to build a different port */
-#define PORT WINDOWS
+// #define PORT WINDOWS
+#define PORT UNIX
 
 #endif /* INC_JAMPORT_H */
